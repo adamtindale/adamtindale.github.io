@@ -1,6 +1,6 @@
 ---
 title: "Switching ISPs"
-date: 2024-04-10 21:00
+date: 2024-04-10 20:28
 #categories: [NetEng] # always lowercase, comma space seperated
 tags: [internet] # always lowercase, comma seperated
 ---

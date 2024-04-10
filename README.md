@@ -9,7 +9,7 @@ A personal blog/space while having fun with Jekyll, Markdown and CI/CD.
 
 
 # Content
-NetEng, homelab, homebrew and other tidbits.
+NetEng, homelab, home brew and other tidbits.
 
 
 --- 
