@@ -5,7 +5,6 @@ date: 2024-04-10 20:28
 tags: [internet] # always lowercase, comma seperated
 ---
 
-# Switching ISPs
 Living in a 'new build', well, it was a new build in 2019, not sure how long the new build tag sticks around. Similar to what will happen to Next-Generation Firewalls when we have another generation. After-Next-Gen? :sunglasses:
 
 Anyway, it means I have an FTTP internet connection.

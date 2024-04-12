@@ -5,7 +5,6 @@ date: 2024-04-11 21:00
 tags: [neteng,homelab,monitoring,internet] # always lowercase, comma seperated
 ---
 
-# Comparing ISPs with Smokeping
 After my recent post about changing ISPs, I wanted to share some basic latency statistics between BT and Zen, using SmokePing.
 
 I've got Smokeping setup in my Homelab pinging various endpoints, but having recently switched ISPs, it's interesting to see the difference between the two. All of my endpoints have similar results. Using Cloudflare and Google as examples here:
