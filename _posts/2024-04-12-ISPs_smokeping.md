@@ -20,7 +20,7 @@ I've got Smokeping setup in my Homelab pinging various endpoints, but having rec
 &nbsp;
 &nbsp;
 
-5 day window:
+4 day window:
 ![BT_Zen_Cloudflare2](assets/images/BT_Zen_Cloudflare2.png)
 ![BT_Zen_Google2](assets/images/BT_Zen_Google2.png)
 
