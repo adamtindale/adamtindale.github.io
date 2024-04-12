@@ -14,7 +14,7 @@ I was with BT from the beginning and most recently on the Full Fibre 910/110Mbps
 
 As a home worker, the service was perfect honestly, no noticable performance issues in 5 years. The issue I did have though, was mid-contract price rises. CPI +3.9%.
 
-The 40 year high inflation through 2022/2023 meant a significant increase in price. A victim of the cheap money era really.
+The 40 year high inflation through 2022/2023 meant a significant increase in price. Yes, I agreed to the terms but as a society we were all so accustomed to low interest rates, it was unexpected. A victim of the cheap money era!
 
 Once bitten, twice shy.
 
@@ -22,6 +22,10 @@ In March 2024, I decided to switch ISP to a provider that guarantees the price t
 
 Enter, Zen Internet, Full Fibre 500.
 
-Having friends who have worked there and all speak highly of it - the choice was simple.
+Having friends who have worked there, all speak highly of it. The choice was simple.
 
 The switch process was seamless and it's so far so good - enjoying the £30 per month saving too.
+
+---
+
+*For those paying attention, the per month saving would have been £20, if I maintained the 900Mbps package betwen providers*

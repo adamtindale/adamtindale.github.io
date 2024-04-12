@@ -1,0 +1,22 @@
+---
+title: "SNMP to a manageed FortiSwitch"
+date: 2024-04-14 21:00
+categories: [NetEng, Homelab] # always lowercase, comma space seperated
+tags: [snmp,monitoring] # always lowercase, comma seperated
+---
+
+# SNMP to a managed FortiSwitch
+
+Hopefully you found this page because you're struggling to SNMP poll a FortiSwitch managed by a FortiGate.
+
+I've found there's a lot of conflicting information online so sharing my own experience to help others!
+
+
+
+```console
+testing
+```
+
+```shell
+testing
+```
