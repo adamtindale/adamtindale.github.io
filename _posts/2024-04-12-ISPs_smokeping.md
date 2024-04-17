@@ -1,5 +1,5 @@
 ---
-title: "Comparing ISPs with Smokeping"
+title: "Comparing ISPs with SmokePing"
 date: 2024-04-11 21:00
 #categories: [Homelab] # always lowercase, comma space seperated
 tags: [neteng,homelab,monitoring,internet] # always lowercase, comma seperated
@@ -12,10 +12,11 @@ I've got Smokeping setup in my Homelab pinging various endpoints, but having rec
 &nbsp;
 &nbsp;
 
-2 week window:
 ![BT_Zen_Cloudflare1](assets/images/BT_Zen_Cloudflare1.png)
 ![BT_Zen_Google1](assets/images/BT_Zen_Google1.png)
 
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
