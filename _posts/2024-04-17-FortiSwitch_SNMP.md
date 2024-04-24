@@ -103,7 +103,9 @@ config switch-controller snmp-community
 end
 ```
 
-You're done - add the device from your NMS.
+Assuming you have reachability, the FortiSwitch should now reply to the SNMP poll or walk. 
 
-Assuming you have reachability, the FortiSwitch should now reply to the SNMP poll or a walk.
+Add the FortiSwitch from your NMS, and you're done!
+
+
 
