@@ -1,7 +1,7 @@
 ---
 title: "SNMP to a managed FortiSwitch"
 date: 2024-04-17 17:00
-#categories: [NetEng, Homelab] # always lowercase, comma space seperated
+categories: [neteng] # always lowercase, comma space seperated
 tags: [neteng,homelab,fortiswitch,snmp,monitoring] # always lowercase, comma seperated
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Switching ISPs"
 date: 2024-04-10 20:28
-#categories: [NetEng] # always lowercase, comma space seperated
-tags: [internet] # always lowercase, comma seperated
+categories: [neteng] # always lowercase, comma space seperated
+tags: [neteng,internet] # always lowercase, comma seperated
 ---
 
 Living in a 'new build', well, it was a new build in 2019, not sure how long the new build tag sticks around. Similar to what will happen to Next-Generation Firewalls when we have another generation. After-Next-Gen? :sunglasses:

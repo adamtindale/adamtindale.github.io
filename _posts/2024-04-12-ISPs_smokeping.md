@@ -1,7 +1,7 @@
 ---
 title: "Comparing ISPs with SmokePing"
 date: 2024-04-11 21:00
-#categories: [Homelab] # always lowercase, comma space seperated
+categories: [homelab] # always lowercase, comma space seperated
 tags: [neteng,homelab,monitoring,internet] # always lowercase, comma seperated
 ---
 

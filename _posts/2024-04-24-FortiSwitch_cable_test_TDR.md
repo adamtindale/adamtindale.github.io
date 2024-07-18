@@ -1,7 +1,7 @@
 ---
 title: "FortiSwitch Cable Diagnostics (TDR)"
 date: 2024-04-24 08:45
-#categories: [NetEng, Homelab] # always lowercase, comma space seperated
+categories: [neteng] # always lowercase, comma space seperated
 tags: [neteng,homelab,fortiswitch,monitoring] # always lowercase, comma seperated
 ---
 
