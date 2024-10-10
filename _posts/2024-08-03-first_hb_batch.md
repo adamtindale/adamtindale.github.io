@@ -56,9 +56,9 @@ Now that I've setup my home brewery, these are the notes from my first brew day.
 - Cold crash to 5c
 
 ## Gravity/ABV
-OG: 1.076
-FG: 1.017
-ABV: 7.2%
+- OG: 1.076
+- FG: 1.017
+- ABV: 7.2%
 
 <br><br>
 
