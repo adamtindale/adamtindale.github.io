@@ -9,8 +9,6 @@ Back in April, I made a post comparing my latency to internet services with Smok
 
 At midnight on Thursday 25/07/2024, I seemingly started routing onto some new equipment! The latency is as flat as it was with BT.
 
-I know this is over the top geek, but it's cool AF.
-
 ![Zen Update 1](assets/images/ZenUpdate_1.png)
 
 ![Zen Update 2](assets/images/ZenUpdate_2.png)
