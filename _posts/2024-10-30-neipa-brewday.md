@@ -64,42 +64,43 @@ As a goal here, I wanted to add a touch more bitterness than my last NEIPA, with
 
 First thing to note is that I prepared my RO water the night before. First time using the system. The mash went much better than my last batch, added some rice hulls and turned the pump speed down a bit during recirculation.
 
+<!---
 ![RO Water](assets/images/homebrew/hb_neipa-oct2024/neipa_1_ro-water.jpg)
 
 ![Mash](assets/images/homebrew/hb_neipa-oct2024/neipa_1_mash.jpg)
-
+-->
 All good with the sparge and boil.
-
+<!---
 ![Boil Start](assets/images/homebrew/hb_neipa-oct2024/neipa_1_boil-start.jpg)
-
+-->
 I'd already added the first wort, but a picture of the hops:
-
+<!---
 ![Boil Start](assets/images/homebrew/hb_neipa-oct2024/neipa_1_hops.jpg)
-
+-->
 I didn't get a picture of the cooling or whirlpool, but honestly a really successful brew day. Here's how it looked in the fermenter.
-
+<!---
 ![Fermenter](assets/images/homebrew/hb_neipa-oct2024/neipa_1_fermenter.jpg)
-
+-->
 I missed by numbers on this brew, I ended up with an OG of 1.055.
 
 and one as the krausen started to form:
-
+<!---
 ![Fermenting](assets/images/homebrew/hb_neipa-oct2024/neipa_1_fermenting.jpg)
-
+-->
 Fermented out to 1.012l, resulting in 5.6% ABV. I didn't get picture of the dry hop either. All I can say is that the hop bong is an incredible bit of kit!
-
+<!---
 ![Transfer](assets/images/homebrew/hb_neipa-oct2024/neipa_1_fermenting.jpg)
-
+-->
 Fermentation profile (ignore the bit at the end that seems to have caught the clean up!)
-
+<!---
 ![Fermentation tracking](assets/images/homebrew/hb_neipa-oct2024/neipa_1_pill.jpg)
-
+-->
 
 ## Tasting
 The beer started out very green, left to condition @ 5c for a week and when I tried again - it was still really bitter.
-
+<!---
 ![Glass](assets/images/homebrew/hb_neipa-oct2024/neipa_1_glass.jpg)
-
+-->
 I thought it would round out in time, but it didn't. The bitterness never improved. I overdid it with the hot side hops, Brewfather didn't calculate much difference, however, I noticed I used a default Citra of 12% AA. The Lupomax had 19.6%!! This batch was poured down the drain.
 
 A lesson learnt.
