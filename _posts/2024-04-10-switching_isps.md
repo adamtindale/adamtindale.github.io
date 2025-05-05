@@ -21,10 +21,8 @@ In March 2024, I decided to switch ISP to a provider that guarantees the price t
 
 Enter, Zen Internet, Full Fibre 500.
 
-Having friends who have worked there, all speak highly of it. The choice was simple.
-
 The switch process was seamless and it's so far so good - enjoying the £30 per month saving too.
 
 ---
 
-*For those paying attention, the per month saving would have been £20, if I maintained the 900Mbps package betwen providers*
+*the per month saving would have been £20, if I had maintained the 900Mbps package between providers*

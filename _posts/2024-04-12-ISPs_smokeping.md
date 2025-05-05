@@ -27,7 +27,7 @@ I've got Smokeping setup in my Homelab pinging various endpoints, but having rec
 &nbsp;
 &nbsp;
 
-As you can see, BT is solid with almost no variation, whereas Zen does. Noticable side-by-side - more than likely the difference in hardware/ASICs.
+As you can see, BT is solid with almost no variation, whereas Zen does. Noticable side-by-side - the difference between hardware/ASICs within each provider.
 
 This isn't a benchmark between the two. I mean, it's a ping test from a house in Manchester. 
 

@@ -10,9 +10,9 @@ Now that I've setup my home brewery, these are the notes from my first brew day.
 
 # Recipe
 
-20L batch.
+20L in the fermenter
 
-## Grist
+## Grain
 - 3.75kg / 58.6% - Maris Otter (Extra Pale)
 - 1kg / 15.6% - Simpsons Golden Promise
 - 1kg / 15.6% - Flaked Oats
@@ -52,13 +52,14 @@ Now that I've setup my home brewery, these are the notes from my first brew day.
 - Primary: 5 days @ 20c
 - Diacetyl rest: 5 days @ 21c
 - Cool to 15c
-- Dry hop, 3 days
+- Dry hop, 3 day contact time
 - Cold crash to 5c
 
 ## Gravity/ABV
 - OG: 1.076
 - FG: 1.017
 - ABV: 7.2%
+- IBU: 32
 
 <br><br>
 
