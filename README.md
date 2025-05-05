@@ -1,30 +1,18 @@
 # tindale.io 
 
-
-![Shield lols](https://img.shields.io/badge/500-network_problem-red)
-
-
 # Blog-as-Code
 A personal blog/space while having fun with Jekyll, Markdown and CI/CD.
 
-
 # Content
-NetEng, homelab, home brew and other tidbits.
-
-
---- 
-
+NetEng, homelab, and home brew.
 
 ## Thanks
-
 Thanks to all the owners and maintainers for making this so simple.
 
 ## Usage
-
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
 ## License
-
 This work is published under [MIT][mit] License.
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
