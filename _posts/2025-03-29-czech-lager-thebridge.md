@@ -9,8 +9,7 @@ I love Czech lager and I've yet to make a home brew lager.
 
 Ever since watching the The Malt Miller's 'Brew With You' episode on a Czech Lager with Radim Zvanovec, I've wanted to give it a go!
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=TMyMQfBFENs&t=1636s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+The video can be found here: https://www.youtube.com/watch?v=TMyMQfBFENs&t=1636s
 
 An innovative single decoction lager.
 
