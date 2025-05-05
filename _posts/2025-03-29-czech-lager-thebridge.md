@@ -90,7 +90,7 @@ Steady fermentation and krausen:
 
 Fermentation profile graphs:
 
-![Fermentation tracking](assets/images/homebrew/hb_czechlager-mar2025/czechlager_pil.png)
+![Fermentation tracking](assets/images/homebrew/hb_czechlager-mar2025/czechlager_pill.png)
 
 ## Tasting
 Ok, we have a problem!
