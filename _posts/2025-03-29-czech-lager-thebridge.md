@@ -5,13 +5,9 @@ categories: [homebrew] # always lowercase, comma space seperated
 tags: [homebrew] # always lowercase, comma seperated
 ---
 
-I love Czech lager and I've yet to make a home brew lager.
+After watching [Brew With You — Czech Lager with Radim Zvanovec](https://www.youtube.com/watch?v=TMyMQfBFENs&t=1636s) by The Malt Miller, I finally had a reason to attempt my first homebrew lager.
 
-Ever since watching the The Malt Miller's 'Brew With You' episode on a Czech Lager with Radim Zvanovec, I've wanted to give it a go!
-
-The video can be found here: https://www.youtube.com/watch?v=TMyMQfBFENs&t=1636s
-
-An innovative single decoction lager.
+The recipe uses Möst hops — a Charles Faram variety developed in collaboration with a Czech brewer. 'Möst' means 'bridge' in Czech, a nod to the connection between UK and Czech brewing traditions. Hence the name.
 
 # Recipe
 
@@ -51,8 +47,8 @@ Should have been RO, but I broke the RO system the night before. Ended up using 
 - Cold crash: 4 days @ 4c (add ~10-15psi to prevent oxygen suck back)
 
 ## Gravity
-- OG: 1.041
-- FG: 1.007
+- OG: 1.041 (target)
+- FG: 1.007 (target)
 - ABV: 4.5%
 - IBU: 28
 
@@ -81,7 +77,7 @@ And finally the transfer to the fermenter. I didn't make a starter for this brew
 
 ![Transfer to fermenter](assets/images/homebrew/hb_czechlager-mar2025/czechlager_transfer-fermenter.png)
 
-I managed to get a higher OG, 1.046 and it fishined up at 1.009.
+I hit a higher OG than target: 1.046 (achieved) vs 1.041 (target), and it finished at 1.009 (achieved) vs 1.007 (target).
 
 Steady fermentation and krausen:
 
@@ -106,9 +102,9 @@ After researching causes, these are some that I found
 
 On reflection: I pitched enough yeast, added a yeast nutrient to the boil, full temperature control per recipe, aerated on the way in to the fermenter, ensured no oxygen contact and I throughly clean my equipment after/before every brew.
 
-However, obviously I had hit one of the above problems. I reached out to Radim, he agreed on the acetaldehyde finding and we agreed extending the primary fermentation time to 20 days was the way forward. I decided to buy the kit again and do another batch.
-
-It's hard to take oxidation/infection as I take extra care on both of those points, but that is what I accepted it was.
+I reached out to Radim. He agreed on the acetaldehyde finding and his recommendation was straightforward: extend primary fermentation to 20 days. That's the plan for v2.
 
 Lessons learnt from this brew:
 - Taste the beer during primary to check progress (I have a NukaTap Mini FC that makes this trivial)
+- 12 days in primary is not enough for this yeast — extend to at least 20 days
+- Don't transfer to keg until the sample tastes clean; trusting the schedule over the sample is the mistake

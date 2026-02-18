@@ -19,3 +19,10 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+# Claude Code
+.claude
+CLAUDE.md
+
+# WSL Zone.Identifier metadata
+*:Zone.Identifier
