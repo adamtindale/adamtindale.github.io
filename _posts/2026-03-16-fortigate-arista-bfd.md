@@ -85,3 +85,5 @@ show bfd peers detail
 ```
 
 A healthy session shows `State: Up`. The `Tx interval` field confirms the negotiated transmit interval; it should read 300ms with the aligned configuration above.
+
+As with FortiOS, you can get a summary view without `detail`.
