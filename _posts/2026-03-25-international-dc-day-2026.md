@@ -1,8 +1,8 @@
 ---
 title: "International Data Centre Day"
 date: 2026-03-25 21:00
-categories: [neteng] # always lowercase, comma space seperated
-tags: [datacentre] # always lowercase, comma seperated
+categories: [neteng, datacentre] # always lowercase, comma space seperated
+tags: [datacentre, ai] # always lowercase, comma seperated
 ---
 
 I think we will start to see 'AI Hub' datacentres in a few years, in a similar way that Slough has become the home of finance in the UK. Equinix LD4, LD5, and LD7 didn't end up there by accident — financial services, exchanges and interconnection are concentrated there due to the sweet spot of: proximity to the City of London, transatlantic to NY and low latency wireless.
