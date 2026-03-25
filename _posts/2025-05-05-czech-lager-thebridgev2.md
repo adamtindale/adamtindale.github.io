@@ -45,3 +45,11 @@ The problem on both batches was the same: the yeast collection valve was left op
 The fix for v3 is simple: close the valve from the start on any lager ferment.
 
 The first batch keg has mostly cleared in the keg and is drinkable — not perfect, but good enough. I don't regret the repeat batch; I enjoy the lager brew day and the decoction process. Certainly learnt a lot to take forward.
+
+Progress photos
+
+![Transfer to keg](assets/images/homebrew/hb_czechlager-apr2025/czechlager_transfer-keg.png)
+
+![First pour](assets/images/homebrew/hb_czechlager-apr2025/czechlager_first-pour.png)
+
+![Conditioned](assets/images/homebrew/hb_czechlager-apr2025/czechlager_conditioned.png)

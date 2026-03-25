@@ -108,3 +108,5 @@ Lessons learnt from this brew:
 - Taste the beer during primary to check progress (I have a NukaTap Mini FC that makes this trivial)
 - 12 days in primary is not enough for this yeast — extend to at least 20 days
 - Don't transfer to keg until the sample tastes clean; trusting the schedule over the sample is the mistake
+
+![First pour](assets/images/homebrew/hb_czechlager-mar2025/czechlager_first-pour.png)
